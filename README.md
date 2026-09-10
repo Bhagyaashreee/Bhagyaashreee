@@ -4,7 +4,7 @@
 
 <br/>
 
-<!-- SINGLE HERO TEXT ANIMATION -->
+<!-- HERO — typing animation used ONLY here -->
 <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=21&duration=3200&pause=1400&color=E2C989&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Machine+Learning+Enthusiast;Cybersecurity+Explorer;Building+with+Curiosity+%26+Purpose" />
 
 <br/>
@@ -33,7 +33,8 @@
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=64152A" width="65%"/>
+<!-- Animated divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=64152A" width="65%"/>
 
 </div>
 
@@ -42,6 +43,10 @@
 <div align="center">
 
 ### `01 · A LITTLE ABOUT ME`
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=3B0D18&text=Curious%20mind%20%C2%B7%20Creative%20builder&fontColor=E2C989&fontSize=20&animation=fadeIn" />
 
 </div>
 
@@ -100,7 +105,7 @@ DSA · Systems · Applied ML
 
 <div align="center">
 
-✦　✧　**Curiosity → Learning → Building**　✧　✦
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D6B56E" width="25%"/>
 
 </div>
 
@@ -110,9 +115,9 @@ DSA · Systems · Applied ML
 
 ### `02 · SELECTED WORK`
 
-<sub>
-A collection of projects exploring security, software and intelligent systems.
-</sub>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=65&color=100608&text=Security%20%C2%B7%20Software%20%C2%B7%20Intelligence&fontColor=D6B56E&fontSize=18&animation=fadeIn" />
 
 </div>
 
@@ -202,9 +207,10 @@ Hands-on exploration of cybersecurity concepts including **network scanning, vul
 
 ### `03 · TOOLKIT`
 
-<sub>
-Technologies and concepts I use while building and experimenting.
-</sub>
+<br/>
+
+<!-- Moving marquee-style visual instead of typing -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=65&color=3B0D18&text=PYTHON%20%C2%B7%20JAVA%20%C2%B7%20JAVASCRIPT%20%C2%B7%20ML%20%C2%B7%20SECURITY&fontColor=E2C989&fontSize=17&animation=fadeIn" />
 
 </div>
 
@@ -292,11 +298,7 @@ Computer Networks
 
 <div align="center">
 
-`Python`　·　`Java`　·　`JavaScript`　·　`Scikit-learn`　·　`Pandas`
-
-<br/>
-
-`Nmap`　·　`Wireshark`　·　`AES`　·　`RSA`
+✦　**Always learning. Always building.**　✦
 
 </div>
 
@@ -306,9 +308,9 @@ Computer Networks
 
 ### `04 · EXPERIENCE`
 
-<sub>
-Turning academic learning into practical experience.
-</sub>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=65&color=100608&text=Learning%20through%20real-world%20experience&fontColor=D6B56E&fontSize=18&animation=fadeIn" />
 
 </div>
 
@@ -350,31 +352,94 @@ Explored practical cybersecurity workflows involving network analysis, scanning,
 
 ### `05 · MY APPROACH`
 
-<sub>
-A simple process behind the way I build.
-</sub>
+<br/>
+
+<!-- Sequential visual process -->
+<img src="https://capsule-render.vercel.app/api?type=soft&height=65&color=3B0D18&text=UNDERSTAND%20%E2%86%92%20EXPLORE%20%E2%86%92%20BUILD%20%E2%86%92%20TEST%20%E2%86%92%20REFINE&fontColor=E2C989&fontSize=16&animation=fadeIn" />
 
 <br/><br/>
 
-`01` **UNDERSTAND**
+<table>
+<tr>
 
-↓  
+<td align="center">
 
-`02` **EXPLORE**
+**01**
 
-↓  
+<br/>
 
-`03` **BUILD**
+UNDERSTAND
 
-↓  
+</td>
 
-`04` **TEST**
+<td align="center">
 
-↓  
+→
 
-`05` **REFINE**
+</td>
 
-<br/><br/>
+<td align="center">
+
+**02**
+
+<br/>
+
+EXPLORE
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+**03**
+
+<br/>
+
+BUILD
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+**04**
+
+<br/>
+
+TEST
+
+</td>
+
+<td align="center">
+
+→
+
+</td>
+
+<td align="center">
+
+**05**
+
+<br/>
+
+REFINE
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 <em>
 Good projects are not finished when they work.
@@ -389,9 +454,9 @@ They are finished when they work well.
 
 ### `06 · GITHUB`
 
-<sub>
-A growing collection of projects, experiments and learning.
-</sub>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=soft&height=65&color=100608&text=Projects%20%C2%B7%20Experiments%20%C2%B7%20Learning&fontColor=E2C989&fontSize=18&animation=fadeIn" />
 
 <br/><br/>
 
@@ -446,33 +511,30 @@ A growing collection of projects, experiments and learning.
 <table>
 <tr>
 
-<td align="center">
+<td align="center" width="33%">
 
-**Machine Learning**
+### Machine Learning
 
-<br/>
-
-Applied models · Data · Analysis
-
-</td>
-
-<td align="center">
-
-**Cybersecurity**
-
-<br/>
-
-Networks · Security · Assessment
+Applied models  
+Data · Analysis
 
 </td>
 
-<td align="center">
+<td align="center" width="33%">
 
-**Software Engineering**
+### Cybersecurity
 
-<br/>
+Networks  
+Security · Assessment
 
-Systems · Architecture · Development
+</td>
+
+<td align="center" width="33%">
+
+### Software Engineering
+
+Systems  
+Architecture · Development
 
 </td>
 
@@ -480,6 +542,10 @@ Systems · Architecture · Development
 </table>
 
 <br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=D6B56E" width="20%"/>
+
+<br/><br/>
 
 `DATA ANALYSIS`　·　`CRYPTOGRAPHY`　·　`SYSTEM DESIGN`
 
@@ -493,7 +559,9 @@ Systems · Architecture · Development
 
 <br/>
 
-<h3>Have an idea worth building?</h3>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=70&color=3B0D18&text=Have%20an%20idea%20worth%20building%3F&fontColor=E2C989&fontSize=20&animation=fadeIn" />
+
+<br/><br/>
 
 <em>
 Whether it's a technical discussion, collaboration or an interesting project,
