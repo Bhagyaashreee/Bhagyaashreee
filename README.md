@@ -1,4 +1,4 @@
-a<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:100608,50:3B0D18,100:64152A&text=BHAGYASHREE%20SATPATHY&fontColor=F5F0E8&fontSize=38&fontAlignY=58&animation=fadeIn" width="100%"/>
 
@@ -28,19 +28,11 @@ a<div align="center">
 <img src="https://img.shields.io/badge/EMAIL-100608?style=for-the-badge&logo=gmail&logoColor=E2C989"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- ───────────── ANIMATED TRANSITION ───────────── -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=64152A" width="55%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=64152A" width="55%"/>
 
 </div>
-
-<br/>
 
 ---
 
@@ -72,13 +64,15 @@ I enjoy understanding how things work beneath the surface, experimenting with id
 
 <br/>
 
-<!-- ANIMATED SECTION TRANSITION -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:64152A,50:3B0D18,100:100608&section=footer" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=55&color=0:64152A,50:3B0D18,100:100608&section=footer" width="70%"/>
 
 </div>
+
+---
+
+<div align="center">
 
 ---
 
@@ -88,44 +82,84 @@ I enjoy understanding how things work beneath the surface, experimenting with id
 
 <br/>
 
-<sub>2023 — 2028</sub>
+<sub>A progression shaped by learning, curiosity and experience.</sub>
 
 <br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D6B56E" width="14%"/>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+### `2023 — 2028`
 
 **Integrated M.Tech · Computer Science**  
 VIT-AP University
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D6B56E" width="12%"/>
-
-<br/><br/>
-
-**Machine Learning Intern**  
-Slash Mark IT Solutions  
-`Jan 2025 — May 2025`
-
-<br/><br/>
-
-**Cybersecurity Intern**  
-Elevate Labs  
-`Sep 2025 — Nov 2025`
+`EDUCATION`
 
 </div>
 
 <br/>
 
-<!-- ANIMATED JOURNEY TRANSITION -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:100608,50:3B0D18,100:64152A&section=footer" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=45&color=0:64152A,50:3B0D18,100:100608&section=footer" width="55%"/>
 
 </div>
 
----
+<br/>
 
 <div align="center">
+
+### `01`　**Machine Learning Intern**
+
+**Slash Mark IT Solutions**
+
+`Jan 2025 — May 2025`
+
+<sub>
+Exploring machine learning through practical data-driven work.
+</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+✦　────────────────────────　✦
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `02`　**Cybersecurity Intern**
+
+**Elevate Labs**
+
+`Sep 2025 — Nov 2025`
+
+<sub>
+Developing hands-on experience with security and network analysis.
+</sub>
+
+</div>
+
+<br/><br/>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=64152A" width="12%"/>
+
+</div>
 
 ### `03 · SELECTED WORK`
 
@@ -151,7 +185,7 @@ A secure file-storage system built around **AES-256 encryption**, focused on pro
 
 <div align="center">
 
-✦　·　·　·　·　·　✦
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3B0D18" width="30%"/>
 
 </div>
 
@@ -167,7 +201,7 @@ A secure communication application exploring **RSA-based encryption** for protec
 
 <div align="center">
 
-✧　·　·　·　·　·　✧
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3B0D18" width="30%"/>
 
 </div>
 
@@ -183,7 +217,7 @@ A Python-based project combining **LSB steganography and encryption** to securel
 
 <div align="center">
 
-✦　·　·　·　·　·　✦
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=3B0D18" width="30%"/>
 
 </div>
 
@@ -207,11 +241,9 @@ Hands-on exploration of cybersecurity concepts including **network scanning, vul
 
 <br/>
 
-<!-- ANIMATED PROJECT TRANSITION -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:64152A,50:3B0D18,100:100608&section=footer" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=55&color=0:64152A,50:3B0D18,100:100608&section=footer" width="70%"/>
 
 </div>
 
@@ -261,21 +293,19 @@ Hands-on exploration of cybersecurity concepts including **network scanning, vul
 
 `DSA` · `Operating Systems` · `DBMS` · `Computer Networks`
 
-<br/><br/>
+<br/>
 
 <div align="center">
 
-✦ &nbsp; Always learning · always exploring &nbsp; ✦
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=3B0D18&text=Always%20learning%20%C2%B7%20always%20exploring&fontColor=E2C989&fontSize=16&animation=fadeIn"/>
 
 </div>
 
 <br/>
 
-<!-- ANIMATED TOOLKIT TRANSITION -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:100608,50:64152A,100:3B0D18&section=footer" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=55&color=0:100608,50:64152A,100:3B0D18&section=footer" width="70%"/>
 
 </div>
 
@@ -297,7 +327,7 @@ Hands-on exploration of cybersecurity concepts including **network scanning, vul
 
 <br/>
 
-### ✦ Machine Learning Intern
+## ✦ Machine Learning Intern
 
 **Slash Mark IT Solutions**  
 `Jan 2025 — May 2025`
@@ -306,15 +336,11 @@ Worked with machine-learning concepts and practical data-oriented workflows, gai
 
 <br/>
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D6B56E" width="8%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=1&color=D6B56E" width="22%"/>
 
 <br/>
 
-### ✦ Cybersecurity Intern
+## ✦ Cybersecurity Intern
 
 **Elevate Labs**  
 `Sep 2025 — Nov 2025`
@@ -323,11 +349,9 @@ Explored practical cybersecurity workflows involving network analysis, scanning,
 
 <br/>
 
-<!-- ANIMATED EXPERIENCE TRANSITION -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:64152A,50:3B0D18,100:100608&section=footer" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=55&color=0:64152A,50:3B0D18,100:100608&section=footer" width="70%"/>
 
 </div>
 
@@ -343,27 +367,11 @@ Explored practical cybersecurity workflows involving network analysis, scanning,
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&height=60&color=3B0D18&text=UNDERSTAND%20%E2%86%92%20EXPLORE%20%E2%86%92%20BUILD%20%E2%86%92%20TEST%20%E2%86%92%20REFINE&fontColor=E2C989&fontSize=16&animation=fadeIn"/>
+**UNDERSTAND**　→　**EXPLORE**　→　**BUILD**　→　**TEST**　→　**REFINE**
 
 <br/><br/>
 
-**01 · Understand**
-
-↓
-
-**02 · Explore**
-
-↓
-
-**03 · Build**
-
-↓
-
-**04 · Test**
-
-↓
-
-**05 · Refine**
+<img src="https://capsule-render.vercel.app/api?type=soft&height=50&color=3B0D18&text=Curiosity%20%C2%B7%20Experimentation%20%C2%B7%20Iteration&fontColor=E2C989&fontSize=16&animation=fadeIn"/>
 
 <br/><br/>
 
@@ -376,11 +384,9 @@ They're finished when they work well.
 
 <br/>
 
-<!-- ANIMATED PROCESS TRANSITION -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:100608,50:3B0D18,100:64152A&section=footer" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=64152A" width="18%"/>
 
 </div>
 
@@ -398,13 +404,13 @@ They're finished when they work well.
 
 **11+ Public Repositories**
 
-<br/><br/>
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
 
-✦ &nbsp; Projects & Experiments &nbsp; ✦
+**Projects & Experiments**
 
-<br/><br/>
+&nbsp;&nbsp; ✦ &nbsp;&nbsp;
 
-**Always Learning · Always Building**
+**Always Learning**
 
 <br/><br/>
 
@@ -412,15 +418,9 @@ They're finished when they work well.
 <img src="https://img.shields.io/badge/VIEW%20REPOSITORIES-64152A?style=for-the-badge&logo=github&logoColor=E2C989"/>
 </a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-<!-- ANIMATED GITHUB TRANSITION -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:64152A,50:3B0D18,100:100608&section=footer" width="75%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=55&color=0:100608,50:3B0D18,100:64152A&section=footer" width="70%"/>
 
 </div>
 
@@ -436,47 +436,59 @@ They're finished when they work well.
 
 <br/><br/>
 
-**Machine Learning**
-
-Applied models · Data · Analysis
-
-<br/><br/>
-
-✦
-
-<br/>
-
-**Cybersecurity**
-
-Networks · Security · Assessment
-
-<br/><br/>
-
-✦
-
-<br/>
-
-**Software Engineering**
-
-Systems · Architecture · Development
-
-<br/><br/>
-
-`DATA ANALYSIS`　·　`CRYPTOGRAPHY`　·　`SYSTEM DESIGN`
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D6B56E" width="12%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=D6B56E" width="14%"/>
 
 </div>
 
 <br/>
 
-<!-- ANIMATED EXPLORING TRANSITION -->
+### 01 · Machine Learning
+
+**Applied models · Data · Analysis**
+
+Exploring practical ways to work with data and machine-learning concepts.
+
+<br/>
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=0:100608,50:64152A,100:3B0D18&section=footer" width="75%"/>
+`✦`　────────────────────────　`✦`
+
+</div>
+
+<br/>
+
+### 02 · Cybersecurity
+
+**Networks · Security · Assessment**
+
+Developing a stronger understanding of systems, networks and security practices.
+
+<br/>
+
+<div align="center">
+
+`✧`　────────────────────────　`✧`
+
+</div>
+
+<br/>
+
+### 03 · Software Engineering
+
+**Systems · Architecture · Development**
+
+Learning how thoughtful engineering turns ideas into reliable software.
+
+<br/><br/>
+
+<div align="center">
+
+`DATA ANALYSIS`　·　`CRYPTOGRAPHY`　·　`SYSTEM DESIGN`
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=55&color=0:64152A,50:3B0D18,100:100608&section=footer" width="70%"/>
 
 </div>
 
